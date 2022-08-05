@@ -20,7 +20,7 @@ $ ./libsim <N_Max> <L> <K1> <K2>
 ```
 
 Where:
-N_Max: max capacity of shelves
-L: number of books
-K1: number of placements
-K2: number of removals
+- N_Max: max capacity of shelves
+- L: number of books
+- K1: number of placements
+- K2: number of removals

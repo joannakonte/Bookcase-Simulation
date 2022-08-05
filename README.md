@@ -10,7 +10,7 @@ $ make run
 $ make clean
 ```
 
-Note that, "make run", does the following: `$ ./libsim 100 20 10 2`
+Note: "make run", does the following: `$ ./libsim 100 20 10 2`
 
 If you want to enter your own argument values, run the executable manually, by giving in terminal the following:
 

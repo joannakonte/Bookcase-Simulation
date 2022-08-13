@@ -1,13 +1,15 @@
 # 📚 Library Simulation
 
 This is a project simulating the functionality of a bookcase. The bookcase consists of the following:
-- A base
+- A top shelf
+- A middle shelf
+- A bottom shelf
 - A cabinet with 2 shelves
-- 3 shelves
+- A base
 
-![Bookcase](https://github.com/joannakonte/Bookcase-Simulation/blob/main/images/bookcase.png)
+<img align="right" width="100" height="100" src="https://github.com/joannakonte/Bookcase-Simulation/blob/main/images/bookcase.png">
 
-The library consists of N books at anytime. Each shelve has maximum capacity of N_Max books.
+The library consists of N books at anytime. Each shelf has maximum capacity of N_Max books.
 
 ## Makefile
 

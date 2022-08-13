@@ -1,5 +1,7 @@
 # 📚 Library Simulation
 
+<img align="right" width="120" height="130" src="https://github.com/joannakonte/Bookcase-Simulation/blob/main/images/bookcase.png">
+
 This is a project simulating the functionality of a bookcase. The bookcase consists of the following:
 - A top shelf
 - A middle shelf
@@ -7,9 +9,6 @@ This is a project simulating the functionality of a bookcase. The bookcase consi
 - A cabinet with 2 shelves
 - A base
 
-<img align="right" width="120" height="130" src="https://github.com/joannakonte/Bookcase-Simulation/blob/main/images/bookcase.png">
-
-<br>
 
 The library consists of N books at anytime. Each shelf has maximum capacity of N_Max books.
 

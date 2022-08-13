@@ -1,9 +1,11 @@
 # 📚 Library Simulation
 
-This is a project simulating the functionality of a library. The library consists of the following:
+This is a project simulating the functionality of a bookcase. The bookcase consists of the following:
 - A base
 - A cabinet with 2 shelves
 - 3 shelves
+
+![Bookcase](https://github.com/joannakonte/Bookcase-Simulation/blob/main/images/bookcase.png)
 
 The library consists of N books at anytime. Each shelve has maximum capacity of N_Max books.
 

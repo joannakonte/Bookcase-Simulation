@@ -9,7 +9,7 @@ CC = g++
 CFLAGS = -Wall -Werror -I$(INCLUDE);
 
 # Executable
-EXEC = libsim
+EXEC = booksim
 
 # Arguments
 ARG = 100 20 10 2

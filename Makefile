@@ -21,7 +21,7 @@ all: $(EXEC)
 
 $(EXEC): $(OBJ)
 
-	$(CC) $(OBJ) -w -o $(EXEC) 
+	$(CC) $(OBJ) -o $(EXEC) 
 
 run: $(EXEC)
 	./$(EXEC) $(ARG)

@@ -5,7 +5,7 @@ This is a project simulating the functionality of a bookcase. The bookcase consi
 - A cabinet with 2 shelves
 - 3 shelves
 
-![Bookcase](https://github.com/joannakonte/Bookcase-Simulation/blob/main/images/bookcase.png)
+![Bookcase](https://github.com/joannakonte/Bookcase-Simulation/blob/main/images/Bookcase.png)
 
 The library consists of N books at anytime. Each shelve has maximum capacity of N_Max books.
 

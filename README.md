@@ -11,8 +11,9 @@ This is a project simulating the functionality of a bookcase. The bookcase consi
 - A cabinet with 2 shelves
 - A base
 <br>
+<br>
 
-The library consists of N books at anytime. Each shelf has maximum capacity of `N_Max` books.
+The library consists of N books at anytime. Each shelf has maximum capacity of `N_Max` books. Each time the program runs, `K1` books are placed in random shelves of the bookcase. Then, `K2` books are removed from random shelves of the bookcase. Finally, the details of the books that are left in the bookcase are printed.
 
 ## Makefile
 

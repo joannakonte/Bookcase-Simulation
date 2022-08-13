@@ -1,8 +1,11 @@
 # 📚 Library Simulation
 
-| A | B | C |
-|---|---|---|
-| 1   2   3 <br/> 4 <br/> 5 |
+This is a project simulating the functionality of a library. The library consists of the following:
+- A base
+- A cabinet with 2 shelves
+- 3 shelves
+
+The library consists of N books at anytime. Each shelve has maximum capacity of N_Max books.
 
 ## Makefile
 

@@ -1,7 +1,8 @@
-# 📚 Library Simulation
+# 📖 Bookcase Simulation
 
 
 This is a project simulating the functionality of a bookcase. The bookcase consists of the following:
+<br>
 <br>
 <img align="right" width="150" height="180" src="https://github.com/joannakonte/Bookcase-Simulation/blob/main/images/bookcase.png">
 - A top shelf

@@ -22,12 +22,7 @@ class Book {
         int position;
     public:
         Book(string title, string name, string surname, unsigned int isbn) :
-            title(title), author_name(name), author_surname(surname), ISBN(isbn) {
-            this->title = title;
-            this->author_name = name;
-            this->author_surname = surname;
-            this->ISBN = isbn;
-        }
+            title(title), author_name(name), author_surname(surname), ISBN(isbn) {}
         ~Book();
         void print();
 };

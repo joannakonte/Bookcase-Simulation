@@ -17,7 +17,7 @@ The library consists of N books at anytime. Each shelf has maximum capacity of `
 
 ## Makefile
 
-Use the Makefile to compile, run and clean using the following commands:
+Use the `Makefile` to compile, run and clean using the following commands:
 
 ```bash
 $ make 
